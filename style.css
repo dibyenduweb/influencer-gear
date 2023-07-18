@@ -94,18 +94,17 @@ li {
   gap: 40px;
   padding:30px;
   width: 100px;
-  margin-left:90px;
+  margin-left:200px;
 }
 
 .shor-card{
 border-radius: 5px;
 background: #FFF;
 box-shadow: 0px 0px 40px 0px rgba(0, 0, 0, 0.15);
-width: 356px;
-height: 450px;
-margin: 0px auto;
-padding-top: 40px;
-padding-left: 55px;
+width: 320px;
+height: 420px;
+padding-top: 20px;
+padding-left: 20px;
 }
 .card-title{
 color:#18191F;
